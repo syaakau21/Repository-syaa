@@ -8,12 +8,12 @@
 body {
     margin: 0;
     font-family: 'Quicksand', sans-serif;
-    background-color: cyan;
+     background-image: url("/img/bawah.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
+  
     min-height: 100vh;
     display: flex;
     flex-direction: column;
